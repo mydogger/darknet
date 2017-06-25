@@ -1,0 +1,9 @@
+classes = 5
+
+train = /home/myd/new/darknet/VOCdevkit/VOC2017/ImageSets/Main/train.txt
+
+//valid = /home/myd/new/darknet/data/nfpa/test.txt
+
+names =  /home/myd/new/darknet/cfg/myd.names
+
+backup = backup_myd

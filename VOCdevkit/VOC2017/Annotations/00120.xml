@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>DstImage</folder>
+  <filename>00120.jpg</filename>
+  <path>/home/myd/all/DstImage/00120.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>375</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>watermelon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>53</ymin>
+      <xmax>264</xmax>
+      <ymax>226</ymax>
+    </bndbox>
+  </object>
+</annotation>
